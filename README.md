@@ -1,5 +1,7 @@
 ## 𝐇𝐢𝐢 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> 𝐈'𝐦 [💞 𝕽𝖆𝖛𝖎𝖓𝖆𝖓𝖉𝖆𝖓💞](https://t.me/technomindzyt)
 
+<p align="center"><a href="https://t.me/technomindzyt"><img src="https://telegra.ph/file/d52327a760930ba795ece.jpg" width="800"></a></p>
+
 - **👀 I’m interested in Coding**
 
 - **🌱 I’m currently learning Python**
@@ -27,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left"><b>My GitHub Stats💛</b></h4>
 
-![Techno Mindz Git Stats](https://github-readme-stats.vercel.app/api?username=technomindz&include_all_commits=true&count_private=true&theme=highcontrast)
+![RAVINANDAN Git Stats](https://github-readme-stats.vercel.app/api?username=ravitechnomindz&include_all_commits=true&count_private=true&theme=highcontrast)
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
