@@ -23,6 +23,11 @@
 TechnoMindz/TechnoMindz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## 📊 Stats
+
+<h3 align="left"><b>My GitHub Stats💛</b></h4>
+
+![Techno Mindz Git Stats](https://github-readme-stats.vercel.app/api?username=technomindz&include_all_commits=true&count_private=true&theme=highcontrast)
 
 ### Languages and Tools I Love❤️
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />](https://python.org/)
