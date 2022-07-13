@@ -1,6 +1,6 @@
 ## 𝐇𝐢𝐢 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> 𝐈'𝐦 [💞 𝕽𝖆𝖛𝖎𝖓𝖆𝖓𝖉𝖆𝖓💞](https://t.me/technomindzyt)
 
-<p align="center"><a href="https://t.me/technomindzyt"><img src="https://telegra.ph/file/d52327a760930ba795ece.jpg" width="800"></a></p>
+<p align="left"><a href="https://t.me/technomindzyt"><img src="https://telegra.ph/file/d52327a760930ba795ece.jpg" width="500"></a></p>
 
 - **👀 I’m interested in Coding**
 
