@@ -1,26 +1,30 @@
 ## 𝐇𝐢𝐢 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> 𝐈'𝐦 [💞 𝕽𝖆𝖛𝖎𝖓𝖆𝖓𝖉𝖆𝖓💞](https://t.me/technomindzyt)
 
+
 <p align="left"><a href="https://t.me/technomindzyt"><img src="https://telegra.ph/file/d52327a760930ba795ece.jpg" width="500"></a></p>
 
-- **👀 I’m interested in Coding**
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+I'm+Ravinandan+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Developer+and+a+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+Having+a+small+Youtube+Channel+%F0%9F%93%88;Please+Support+me+by+Subscribing+it" alt="Ravi" width="650" height="55">
 
-- **🌱 I’m currently learning Python**
+<div align="center">
+<br><p align="center"><b>Pʀᴏғɪʟᴇ Vɪᴇᴡᴇʀs</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RaviTechnoMindz}/count.svg"/></p> 
 
-- **💫 I’m Always working on Some Projects**
 
-- **⚡ Fun Fact I'm Noob.😁..**
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RaviTechnoMindz&theme=highcontrast)](https://github.com/RaviTechnoMindz/github-readme-streak-stats)
+</div>
 
-- **You Can Reach ME Via  📫 [TM OWNER](https://t.me/technokillerbot)**
+<p align="center">
+  <a href="https://github.com/RaviTechnoMindz">
+    <img src="https://activity-graph.herokuapp.com/graph?username=RaviTechnoMindz&theme=react-dark" />
+  </a>
+</p>
 
-- **Also Visit My [CHANNEL](https://t.me/tmmainchannel)**
+<p align="center">
+<a href="https://www.youtube.com/c/TechnoMindz">
+  <img src="https://img.shields.io/badge/Subscribe-green?logo=youtube" width="180">
+</p>
 
-- **And [MY GROUP](https://t.me/technomoviescollection)**
 
-- **If You Need Any Support Contact My [Support Group](https://t.me/technomindzchat)**
-
-- **⚠️WARNING⚠️ Don't Try To Cheat Me You Will See The Terror Ahead 😈**
-
-- **Sutha Tamilan 💪**
 <!---
 TechnoMindz/TechnoMindz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
