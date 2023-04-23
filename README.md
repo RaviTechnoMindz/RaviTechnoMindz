@@ -1,7 +1,7 @@
 ## 𝐇𝐢𝐢 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> 𝐈'𝐦 [💞 𝕽𝖆𝖛𝖎𝖓𝖆𝖓𝖉𝖆𝖓💞](https://t.me/technomindzyt)
 
 
-<p align="left"><a href="https://t.me/technomindzyt"><img src="https://telegra.ph/file/d52327a760930ba795ece.jpg" width="500"></a></p>
+<p align="left"><a href="https://t.me/technomindzyt"><img src="https://telegra.ph/file/36da60d70f35a8ef9aca4.jpg" width="1000"></a></p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=447FF7&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+I'm+Ravinandan+%F0%9F%91%8B%F0%9F%8F%BB;I+am+a+Developer+and+a+Student+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+am+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+am+Having+a+small+Youtube+Channel+%F0%9F%93%88;Please+Support+me+by+Subscribing+it" alt="Ravi" width="650" height="55">
 
